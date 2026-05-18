@@ -15,5 +15,5 @@ This project focuses on tracking the statistical variance of the **Factor of Saf
 - **Visual Synthesis Engines:** Matplotlib, Seaborn, Plotly Express
 
 ## Setup
-git clone "<your-repository-url>"
-cd "<repository-folder>"
+git clone "your-repository-url"
+cd "repository-folder"
